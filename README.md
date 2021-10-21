@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stallone</h1>
-<h3 align="center">A Full-Stack Developer From Goa-India</br>Currently In My Junior Year Of College At Chandigarh University </h3>
+<h3 align="center">A Front-End Developer From Goa-India</br>Currently In My Sophomore Year At Chandigarh University </h3>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect:</h2>
 <p align="left">
 <a href="https://twitter.com/11stallone11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="11stallone11" height="30" width="40" /></a>
 <a href="https://fb.com/stallon.fernandes.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stallon.fernandes.7" height="30" width="40" /></a>
