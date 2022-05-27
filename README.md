@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stallone</h1>
-<h3 align="center">A Front-End Developer From Goa-India</br>Currently In My Sophomore Year At Chandigarh University </h3>
+<h3 align="center">A Front-End Developer From Goa-India</br>Currently In My Junior Year At Chandigarh University </h3>
 
 <h2 align="left">Connect:</h2>
 <p align="left">
