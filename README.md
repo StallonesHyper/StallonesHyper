@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stallone</h1>
-<h3 align="center">A Front-End Developer From Goa-India</br>Currently In My Senior Year At Chandigarh University </h3>
+<h3 align="center">A 22 Y/O Front-End Developer from Goa 🌴 India 🇮🇳 based in Goa and Chandigarh (Mohali).With experience of more than 4 Years in Front-End Technologies.
+
+I'm a Linux Enthusiast and I create visually appealing Applications.I'm currently a Full-Time Computer Science Student 📚 at Chandigarh University.
+
+"do what excites 💫"</h3>
 
 <h2 align="left">Connect:</h2>
 <p align="left">
